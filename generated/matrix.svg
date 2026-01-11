@@ -1,0 +1,538 @@
+
+    <svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+        <rect width="100%" height="100%" fill="black" />
+        
+        <text x="0" y="0" font-family="monospace" font-size="18.03448882454519" fill="#0f0" opacity="0.681599504798388">
+            <animate attributeName="y" from="-50" to="350" dur="2.82234982451887s" begin="-2.1438148254241574s" repeatCount="indefinite" />
+            Node
+        </text>
+        <text x="0" y="-20" font-family="monospace" font-size="18.03448882454519" fill="#0f0" opacity="0.681599504798388">
+            <animate attributeName="y" from="-70" to="330" dur="2.82234982451887s" begin="-2.1438148254241574s" repeatCount="indefinite" />
+            0
+        </text>
+         <text x="0" y="-40" font-family="monospace" font-size="18.03448882454519" fill="#0f0" opacity="0.681599504798388">
+            <animate attributeName="y" from="-90" to="310" dur="2.82234982451887s" begin="-2.1438148254241574s" repeatCount="indefinite" />
+            JS
+        </text>
+        
+        <text x="20" y="0" font-family="monospace" font-size="13.590488552507141" fill="#0f0" opacity="0.77284044451485">
+            <animate attributeName="y" from="-50" to="350" dur="2.5598847494215624s" begin="-2.535634451750652s" repeatCount="indefinite" />
+            0
+        </text>
+        <text x="20" y="-20" font-family="monospace" font-size="13.590488552507141" fill="#0f0" opacity="0.77284044451485">
+            <animate attributeName="y" from="-70" to="330" dur="2.5598847494215624s" begin="-2.535634451750652s" repeatCount="indefinite" />
+            {}
+        </text>
+         <text x="20" y="-40" font-family="monospace" font-size="13.590488552507141" fill="#0f0" opacity="0.77284044451485">
+            <animate attributeName="y" from="-90" to="310" dur="2.5598847494215624s" begin="-2.535634451750652s" repeatCount="indefinite" />
+            &&
+        </text>
+        
+        <text x="40" y="0" font-family="monospace" font-size="14.348169973971306" fill="#0f0" opacity="0.76601081670666">
+            <animate attributeName="y" from="-50" to="350" dur="2.785325782449889s" begin="-1.5029511128595567s" repeatCount="indefinite" />
+            0
+        </text>
+        <text x="40" y="-20" font-family="monospace" font-size="14.348169973971306" fill="#0f0" opacity="0.76601081670666">
+            <animate attributeName="y" from="-70" to="330" dur="2.785325782449889s" begin="-1.5029511128595567s" repeatCount="indefinite" />
+            &&
+        </text>
+         <text x="40" y="-40" font-family="monospace" font-size="14.348169973971306" fill="#0f0" opacity="0.76601081670666">
+            <animate attributeName="y" from="-90" to="310" dur="2.785325782449889s" begin="-1.5029511128595567s" repeatCount="indefinite" />
+            Go
+        </text>
+        
+        <text x="60" y="0" font-family="monospace" font-size="16.795687863036633" fill="#0f0" opacity="0.7070930037494668">
+            <animate attributeName="y" from="-50" to="350" dur="3.533651872104365s" begin="-1.2462014339642087s" repeatCount="indefinite" />
+            &&
+        </text>
+        <text x="60" y="-20" font-family="monospace" font-size="16.795687863036633" fill="#0f0" opacity="0.7070930037494668">
+            <animate attributeName="y" from="-70" to="330" dur="3.533651872104365s" begin="-1.2462014339642087s" repeatCount="indefinite" />
+            React
+        </text>
+         <text x="60" y="-40" font-family="monospace" font-size="16.795687863036633" fill="#0f0" opacity="0.7070930037494668">
+            <animate attributeName="y" from="-90" to="310" dur="3.533651872104365s" begin="-1.2462014339642087s" repeatCount="indefinite" />
+            React
+        </text>
+        
+        <text x="80" y="0" font-family="monospace" font-size="18.013334091297466" fill="#0f0" opacity="0.6392803964069202">
+            <animate attributeName="y" from="-50" to="350" dur="3.1615736505806695s" begin="-2.2383060732077498s" repeatCount="indefinite" />
+            0
+        </text>
+        <text x="80" y="-20" font-family="monospace" font-size="18.013334091297466" fill="#0f0" opacity="0.6392803964069202">
+            <animate attributeName="y" from="-70" to="330" dur="3.1615736505806695s" begin="-2.2383060732077498s" repeatCount="indefinite" />
+            </>
+        </text>
+         <text x="80" y="-40" font-family="monospace" font-size="18.013334091297466" fill="#0f0" opacity="0.6392803964069202">
+            <animate attributeName="y" from="-90" to="310" dur="3.1615736505806695s" begin="-2.2383060732077498s" repeatCount="indefinite" />
+            Node
+        </text>
+        
+        <text x="100" y="0" font-family="monospace" font-size="12.0373706619268" fill="#0f0" opacity="0.9371237616016246">
+            <animate attributeName="y" from="-50" to="350" dur="5.050321368181447s" begin="-0.3637616512714825s" repeatCount="indefinite" />
+            0
+        </text>
+        <text x="100" y="-20" font-family="monospace" font-size="12.0373706619268" fill="#0f0" opacity="0.9371237616016246">
+            <animate attributeName="y" from="-70" to="330" dur="5.050321368181447s" begin="-0.3637616512714825s" repeatCount="indefinite" />
+            JS
+        </text>
+         <text x="100" y="-40" font-family="monospace" font-size="12.0373706619268" fill="#0f0" opacity="0.9371237616016246">
+            <animate attributeName="y" from="-90" to="310" dur="5.050321368181447s" begin="-0.3637616512714825s" repeatCount="indefinite" />
+            0
+        </text>
+        
+        <text x="120" y="0" font-family="monospace" font-size="14.595057509889296" fill="#0f0" opacity="0.546502617153428">
+            <animate attributeName="y" from="-50" to="350" dur="4.919840869159023s" begin="-0.29660715475020083s" repeatCount="indefinite" />
+            </>
+        </text>
+        <text x="120" y="-20" font-family="monospace" font-size="14.595057509889296" fill="#0f0" opacity="0.546502617153428">
+            <animate attributeName="y" from="-70" to="330" dur="4.919840869159023s" begin="-0.29660715475020083s" repeatCount="indefinite" />
+            &&
+        </text>
+         <text x="120" y="-40" font-family="monospace" font-size="14.595057509889296" fill="#0f0" opacity="0.546502617153428">
+            <animate attributeName="y" from="-90" to="310" dur="4.919840869159023s" begin="-0.29660715475020083s" repeatCount="indefinite" />
+            React
+        </text>
+        
+        <text x="140" y="0" font-family="monospace" font-size="17.176659435087796" fill="#0f0" opacity="0.6155164570519782">
+            <animate attributeName="y" from="-50" to="350" dur="6.069297968434013s" begin="-0.2886366195831469s" repeatCount="indefinite" />
+            TS
+        </text>
+        <text x="140" y="-20" font-family="monospace" font-size="17.176659435087796" fill="#0f0" opacity="0.6155164570519782">
+            <animate attributeName="y" from="-70" to="330" dur="6.069297968434013s" begin="-0.2886366195831469s" repeatCount="indefinite" />
+            Rust
+        </text>
+         <text x="140" y="-40" font-family="monospace" font-size="17.176659435087796" fill="#0f0" opacity="0.6155164570519782">
+            <animate attributeName="y" from="-90" to="310" dur="6.069297968434013s" begin="-0.2886366195831469s" repeatCount="indefinite" />
+            Node
+        </text>
+        
+        <text x="160" y="0" font-family="monospace" font-size="17.03093004194249" fill="#0f0" opacity="0.3777465050278296">
+            <animate attributeName="y" from="-50" to="350" dur="2.4207836275698646s" begin="-3.8179311200196646s" repeatCount="indefinite" />
+            Rust
+        </text>
+        <text x="160" y="-20" font-family="monospace" font-size="17.03093004194249" fill="#0f0" opacity="0.3777465050278296">
+            <animate attributeName="y" from="-70" to="330" dur="2.4207836275698646s" begin="-3.8179311200196646s" repeatCount="indefinite" />
+            1
+        </text>
+         <text x="160" y="-40" font-family="monospace" font-size="17.03093004194249" fill="#0f0" opacity="0.3777465050278296">
+            <animate attributeName="y" from="-90" to="310" dur="2.4207836275698646s" begin="-3.8179311200196646s" repeatCount="indefinite" />
+            Node
+        </text>
+        
+        <text x="180" y="0" font-family="monospace" font-size="14.032506118520725" fill="#0f0" opacity="0.44776624756385314">
+            <animate attributeName="y" from="-50" to="350" dur="2.4511463507168583s" begin="-1.6747479798526506s" repeatCount="indefinite" />
+            0
+        </text>
+        <text x="180" y="-20" font-family="monospace" font-size="14.032506118520725" fill="#0f0" opacity="0.44776624756385314">
+            <animate attributeName="y" from="-70" to="330" dur="2.4511463507168583s" begin="-1.6747479798526506s" repeatCount="indefinite" />
+            </>
+        </text>
+         <text x="180" y="-40" font-family="monospace" font-size="14.032506118520725" fill="#0f0" opacity="0.44776624756385314">
+            <animate attributeName="y" from="-90" to="310" dur="2.4511463507168583s" begin="-1.6747479798526506s" repeatCount="indefinite" />
+            Node
+        </text>
+        
+        <text x="200" y="0" font-family="monospace" font-size="16.644314964296488" fill="#0f0" opacity="0.7269743014619354">
+            <animate attributeName="y" from="-50" to="350" dur="3.4805792472747505s" begin="-1.2017268974262207s" repeatCount="indefinite" />
+            1
+        </text>
+        <text x="200" y="-20" font-family="monospace" font-size="16.644314964296488" fill="#0f0" opacity="0.7269743014619354">
+            <animate attributeName="y" from="-70" to="330" dur="3.4805792472747505s" begin="-1.2017268974262207s" repeatCount="indefinite" />
+            JS
+        </text>
+         <text x="200" y="-40" font-family="monospace" font-size="16.644314964296488" fill="#0f0" opacity="0.7269743014619354">
+            <animate attributeName="y" from="-90" to="310" dur="3.4805792472747505s" begin="-1.2017268974262207s" repeatCount="indefinite" />
+            1
+        </text>
+        
+        <text x="220" y="0" font-family="monospace" font-size="18.13215307178433" fill="#0f0" opacity="0.883491179883521">
+            <animate attributeName="y" from="-50" to="350" dur="2.3034744568224457s" begin="-3.03288945278148s" repeatCount="indefinite" />
+            {}
+        </text>
+        <text x="220" y="-20" font-family="monospace" font-size="18.13215307178433" fill="#0f0" opacity="0.883491179883521">
+            <animate attributeName="y" from="-70" to="330" dur="2.3034744568224457s" begin="-3.03288945278148s" repeatCount="indefinite" />
+            Go
+        </text>
+         <text x="220" y="-40" font-family="monospace" font-size="18.13215307178433" fill="#0f0" opacity="0.883491179883521">
+            <animate attributeName="y" from="-90" to="310" dur="2.3034744568224457s" begin="-3.03288945278148s" repeatCount="indefinite" />
+            {}
+        </text>
+        
+        <text x="240" y="0" font-family="monospace" font-size="19.42543916504847" fill="#0f0" opacity="0.4615849839236887">
+            <animate attributeName="y" from="-50" to="350" dur="4.532007174504149s" begin="-3.022484657132246s" repeatCount="indefinite" />
+            {}
+        </text>
+        <text x="240" y="-20" font-family="monospace" font-size="19.42543916504847" fill="#0f0" opacity="0.4615849839236887">
+            <animate attributeName="y" from="-70" to="330" dur="4.532007174504149s" begin="-3.022484657132246s" repeatCount="indefinite" />
+            TS
+        </text>
+         <text x="240" y="-40" font-family="monospace" font-size="19.42543916504847" fill="#0f0" opacity="0.4615849839236887">
+            <animate attributeName="y" from="-90" to="310" dur="4.532007174504149s" begin="-3.022484657132246s" repeatCount="indefinite" />
+            Rust
+        </text>
+        
+        <text x="260" y="0" font-family="monospace" font-size="15.888459148972458" fill="#0f0" opacity="0.8570832135121482">
+            <animate attributeName="y" from="-50" to="350" dur="6.431349263227328s" begin="-1.389087548284857s" repeatCount="indefinite" />
+            TS
+        </text>
+        <text x="260" y="-20" font-family="monospace" font-size="15.888459148972458" fill="#0f0" opacity="0.8570832135121482">
+            <animate attributeName="y" from="-70" to="330" dur="6.431349263227328s" begin="-1.389087548284857s" repeatCount="indefinite" />
+            JS
+        </text>
+         <text x="260" y="-40" font-family="monospace" font-size="15.888459148972458" fill="#0f0" opacity="0.8570832135121482">
+            <animate attributeName="y" from="-90" to="310" dur="6.431349263227328s" begin="-1.389087548284857s" repeatCount="indefinite" />
+            Go
+        </text>
+        
+        <text x="280" y="0" font-family="monospace" font-size="14.460670904096094" fill="#0f0" opacity="0.5281407407600021">
+            <animate attributeName="y" from="-50" to="350" dur="3.039351486953495s" begin="-2.068330777949204s" repeatCount="indefinite" />
+            React
+        </text>
+        <text x="280" y="-20" font-family="monospace" font-size="14.460670904096094" fill="#0f0" opacity="0.5281407407600021">
+            <animate attributeName="y" from="-70" to="330" dur="3.039351486953495s" begin="-2.068330777949204s" repeatCount="indefinite" />
+            Rust
+        </text>
+         <text x="280" y="-40" font-family="monospace" font-size="14.460670904096094" fill="#0f0" opacity="0.5281407407600021">
+            <animate attributeName="y" from="-90" to="310" dur="3.039351486953495s" begin="-2.068330777949204s" repeatCount="indefinite" />
+            &&
+        </text>
+        
+        <text x="300" y="0" font-family="monospace" font-size="13.462622826570703" fill="#0f0" opacity="0.7016920125065069">
+            <animate attributeName="y" from="-50" to="350" dur="6.880417814358978s" begin="-2.758969426971192s" repeatCount="indefinite" />
+            TS
+        </text>
+        <text x="300" y="-20" font-family="monospace" font-size="13.462622826570703" fill="#0f0" opacity="0.7016920125065069">
+            <animate attributeName="y" from="-70" to="330" dur="6.880417814358978s" begin="-2.758969426971192s" repeatCount="indefinite" />
+            Rust
+        </text>
+         <text x="300" y="-40" font-family="monospace" font-size="13.462622826570703" fill="#0f0" opacity="0.7016920125065069">
+            <animate attributeName="y" from="-90" to="310" dur="6.880417814358978s" begin="-2.758969426971192s" repeatCount="indefinite" />
+            Go
+        </text>
+        
+        <text x="320" y="0" font-family="monospace" font-size="16.51674270538757" fill="#0f0" opacity="0.33709807875836895">
+            <animate attributeName="y" from="-50" to="350" dur="3.7971167091991926s" begin="-1.930640567852745s" repeatCount="indefinite" />
+            Node
+        </text>
+        <text x="320" y="-20" font-family="monospace" font-size="16.51674270538757" fill="#0f0" opacity="0.33709807875836895">
+            <animate attributeName="y" from="-70" to="330" dur="3.7971167091991926s" begin="-1.930640567852745s" repeatCount="indefinite" />
+            React
+        </text>
+         <text x="320" y="-40" font-family="monospace" font-size="16.51674270538757" fill="#0f0" opacity="0.33709807875836895">
+            <animate attributeName="y" from="-90" to="310" dur="3.7971167091991926s" begin="-1.930640567852745s" repeatCount="indefinite" />
+            JS
+        </text>
+        
+        <text x="340" y="0" font-family="monospace" font-size="14.256447534400582" fill="#0f0" opacity="0.6448894764986569">
+            <animate attributeName="y" from="-50" to="350" dur="2.346076621242348s" begin="-2.749261576544986s" repeatCount="indefinite" />
+            &&
+        </text>
+        <text x="340" y="-20" font-family="monospace" font-size="14.256447534400582" fill="#0f0" opacity="0.6448894764986569">
+            <animate attributeName="y" from="-70" to="330" dur="2.346076621242348s" begin="-2.749261576544986s" repeatCount="indefinite" />
+            1
+        </text>
+         <text x="340" y="-40" font-family="monospace" font-size="14.256447534400582" fill="#0f0" opacity="0.6448894764986569">
+            <animate attributeName="y" from="-90" to="310" dur="2.346076621242348s" begin="-2.749261576544986s" repeatCount="indefinite" />
+            TS
+        </text>
+        
+        <text x="360" y="0" font-family="monospace" font-size="19.410601493875895" fill="#0f0" opacity="0.5997435371304096">
+            <animate attributeName="y" from="-50" to="350" dur="2.2654681669137844s" begin="-1.0884798972667742s" repeatCount="indefinite" />
+            1
+        </text>
+        <text x="360" y="-20" font-family="monospace" font-size="19.410601493875895" fill="#0f0" opacity="0.5997435371304096">
+            <animate attributeName="y" from="-70" to="330" dur="2.2654681669137844s" begin="-1.0884798972667742s" repeatCount="indefinite" />
+            Go
+        </text>
+         <text x="360" y="-40" font-family="monospace" font-size="19.410601493875895" fill="#0f0" opacity="0.5997435371304096">
+            <animate attributeName="y" from="-90" to="310" dur="2.2654681669137844s" begin="-1.0884798972667742s" repeatCount="indefinite" />
+            JS
+        </text>
+        
+        <text x="380" y="0" font-family="monospace" font-size="18.13795449349575" fill="#0f0" opacity="0.8195900798587066">
+            <animate attributeName="y" from="-50" to="350" dur="2.0206340974263695s" begin="-3.7342802538795024s" repeatCount="indefinite" />
+            TS
+        </text>
+        <text x="380" y="-20" font-family="monospace" font-size="18.13795449349575" fill="#0f0" opacity="0.8195900798587066">
+            <animate attributeName="y" from="-70" to="330" dur="2.0206340974263695s" begin="-3.7342802538795024s" repeatCount="indefinite" />
+            0
+        </text>
+         <text x="380" y="-40" font-family="monospace" font-size="18.13795449349575" fill="#0f0" opacity="0.8195900798587066">
+            <animate attributeName="y" from="-90" to="310" dur="2.0206340974263695s" begin="-3.7342802538795024s" repeatCount="indefinite" />
+            </>
+        </text>
+        
+        <text x="400" y="0" font-family="monospace" font-size="16.430572947581332" fill="#0f0" opacity="0.41833128203800296">
+            <animate attributeName="y" from="-50" to="350" dur="3.735529410365357s" begin="-4.121687672338019s" repeatCount="indefinite" />
+            Node
+        </text>
+        <text x="400" y="-20" font-family="monospace" font-size="16.430572947581332" fill="#0f0" opacity="0.41833128203800296">
+            <animate attributeName="y" from="-70" to="330" dur="3.735529410365357s" begin="-4.121687672338019s" repeatCount="indefinite" />
+            TS
+        </text>
+         <text x="400" y="-40" font-family="monospace" font-size="16.430572947581332" fill="#0f0" opacity="0.41833128203800296">
+            <animate attributeName="y" from="-90" to="310" dur="3.735529410365357s" begin="-4.121687672338019s" repeatCount="indefinite" />
+            {}
+        </text>
+        
+        <text x="420" y="0" font-family="monospace" font-size="12.036911314014" fill="#0f0" opacity="0.9684928837470301">
+            <animate attributeName="y" from="-50" to="350" dur="2.236618351512204s" begin="-3.2077646784875853s" repeatCount="indefinite" />
+            Node
+        </text>
+        <text x="420" y="-20" font-family="monospace" font-size="12.036911314014" fill="#0f0" opacity="0.9684928837470301">
+            <animate attributeName="y" from="-70" to="330" dur="2.236618351512204s" begin="-3.2077646784875853s" repeatCount="indefinite" />
+            &&
+        </text>
+         <text x="420" y="-40" font-family="monospace" font-size="12.036911314014" fill="#0f0" opacity="0.9684928837470301">
+            <animate attributeName="y" from="-90" to="310" dur="2.236618351512204s" begin="-3.2077646784875853s" repeatCount="indefinite" />
+            Go
+        </text>
+        
+        <text x="440" y="0" font-family="monospace" font-size="15.47173529412612" fill="#0f0" opacity="0.5610000792398624">
+            <animate attributeName="y" from="-50" to="350" dur="4.4555611569672475s" begin="-2.473275324818701s" repeatCount="indefinite" />
+            TS
+        </text>
+        <text x="440" y="-20" font-family="monospace" font-size="15.47173529412612" fill="#0f0" opacity="0.5610000792398624">
+            <animate attributeName="y" from="-70" to="330" dur="4.4555611569672475s" begin="-2.473275324818701s" repeatCount="indefinite" />
+            JS
+        </text>
+         <text x="440" y="-40" font-family="monospace" font-size="15.47173529412612" fill="#0f0" opacity="0.5610000792398624">
+            <animate attributeName="y" from="-90" to="310" dur="4.4555611569672475s" begin="-2.473275324818701s" repeatCount="indefinite" />
+            React
+        </text>
+        
+        <text x="460" y="0" font-family="monospace" font-size="15.580178281211843" fill="#0f0" opacity="0.8299242786668231">
+            <animate attributeName="y" from="-50" to="350" dur="3.3203187902860547s" begin="-3.557708145145308s" repeatCount="indefinite" />
+            1
+        </text>
+        <text x="460" y="-20" font-family="monospace" font-size="15.580178281211843" fill="#0f0" opacity="0.8299242786668231">
+            <animate attributeName="y" from="-70" to="330" dur="3.3203187902860547s" begin="-3.557708145145308s" repeatCount="indefinite" />
+            TS
+        </text>
+         <text x="460" y="-40" font-family="monospace" font-size="15.580178281211843" fill="#0f0" opacity="0.8299242786668231">
+            <animate attributeName="y" from="-90" to="310" dur="3.3203187902860547s" begin="-3.557708145145308s" repeatCount="indefinite" />
+            0
+        </text>
+        
+        <text x="480" y="0" font-family="monospace" font-size="13.8786651828597" fill="#0f0" opacity="0.7262317288278606">
+            <animate attributeName="y" from="-50" to="350" dur="2.704348416096608s" begin="-3.104805411979019s" repeatCount="indefinite" />
+            Rust
+        </text>
+        <text x="480" y="-20" font-family="monospace" font-size="13.8786651828597" fill="#0f0" opacity="0.7262317288278606">
+            <animate attributeName="y" from="-70" to="330" dur="2.704348416096608s" begin="-3.104805411979019s" repeatCount="indefinite" />
+            {}
+        </text>
+         <text x="480" y="-40" font-family="monospace" font-size="13.8786651828597" fill="#0f0" opacity="0.7262317288278606">
+            <animate attributeName="y" from="-90" to="310" dur="2.704348416096608s" begin="-3.104805411979019s" repeatCount="indefinite" />
+            1
+        </text>
+        
+        <text x="500" y="0" font-family="monospace" font-size="18.93095196931305" fill="#0f0" opacity="0.5680108794403435">
+            <animate attributeName="y" from="-50" to="350" dur="6.525250554899187s" begin="-1.7904842129690524s" repeatCount="indefinite" />
+            JS
+        </text>
+        <text x="500" y="-20" font-family="monospace" font-size="18.93095196931305" fill="#0f0" opacity="0.5680108794403435">
+            <animate attributeName="y" from="-70" to="330" dur="6.525250554899187s" begin="-1.7904842129690524s" repeatCount="indefinite" />
+            Go
+        </text>
+         <text x="500" y="-40" font-family="monospace" font-size="18.93095196931305" fill="#0f0" opacity="0.5680108794403435">
+            <animate attributeName="y" from="-90" to="310" dur="6.525250554899187s" begin="-1.7904842129690524s" repeatCount="indefinite" />
+            &&
+        </text>
+        
+        <text x="520" y="0" font-family="monospace" font-size="17.972285986667423" fill="#0f0" opacity="0.3205504961100202">
+            <animate attributeName="y" from="-50" to="350" dur="6.943049186006615s" begin="-2.357077888863423s" repeatCount="indefinite" />
+            React
+        </text>
+        <text x="520" y="-20" font-family="monospace" font-size="17.972285986667423" fill="#0f0" opacity="0.3205504961100202">
+            <animate attributeName="y" from="-70" to="330" dur="6.943049186006615s" begin="-2.357077888863423s" repeatCount="indefinite" />
+            0
+        </text>
+         <text x="520" y="-40" font-family="monospace" font-size="17.972285986667423" fill="#0f0" opacity="0.3205504961100202">
+            <animate attributeName="y" from="-90" to="310" dur="6.943049186006615s" begin="-2.357077888863423s" repeatCount="indefinite" />
+            {}
+        </text>
+        
+        <text x="540" y="0" font-family="monospace" font-size="19.96733264214912" fill="#0f0" opacity="0.5120321654026778">
+            <animate attributeName="y" from="-50" to="350" dur="6.256298895684157s" begin="-3.8369917063618737s" repeatCount="indefinite" />
+            </>
+        </text>
+        <text x="540" y="-20" font-family="monospace" font-size="19.96733264214912" fill="#0f0" opacity="0.5120321654026778">
+            <animate attributeName="y" from="-70" to="330" dur="6.256298895684157s" begin="-3.8369917063618737s" repeatCount="indefinite" />
+            Node
+        </text>
+         <text x="540" y="-40" font-family="monospace" font-size="19.96733264214912" fill="#0f0" opacity="0.5120321654026778">
+            <animate attributeName="y" from="-90" to="310" dur="6.256298895684157s" begin="-3.8369917063618737s" repeatCount="indefinite" />
+            {}
+        </text>
+        
+        <text x="560" y="0" font-family="monospace" font-size="14.34388160113885" fill="#0f0" opacity="0.4496041193527833">
+            <animate attributeName="y" from="-50" to="350" dur="2.274647410856801s" begin="-2.575565100336999s" repeatCount="indefinite" />
+            JS
+        </text>
+        <text x="560" y="-20" font-family="monospace" font-size="14.34388160113885" fill="#0f0" opacity="0.4496041193527833">
+            <animate attributeName="y" from="-70" to="330" dur="2.274647410856801s" begin="-2.575565100336999s" repeatCount="indefinite" />
+            0
+        </text>
+         <text x="560" y="-40" font-family="monospace" font-size="14.34388160113885" fill="#0f0" opacity="0.4496041193527833">
+            <animate attributeName="y" from="-90" to="310" dur="2.274647410856801s" begin="-2.575565100336999s" repeatCount="indefinite" />
+            JS
+        </text>
+        
+        <text x="580" y="0" font-family="monospace" font-size="18.63442989990313" fill="#0f0" opacity="0.42211542583764144">
+            <animate attributeName="y" from="-50" to="350" dur="6.530997519807434s" begin="-0.3050905186414521s" repeatCount="indefinite" />
+            Node
+        </text>
+        <text x="580" y="-20" font-family="monospace" font-size="18.63442989990313" fill="#0f0" opacity="0.42211542583764144">
+            <animate attributeName="y" from="-70" to="330" dur="6.530997519807434s" begin="-0.3050905186414521s" repeatCount="indefinite" />
+            TS
+        </text>
+         <text x="580" y="-40" font-family="monospace" font-size="18.63442989990313" fill="#0f0" opacity="0.42211542583764144">
+            <animate attributeName="y" from="-90" to="310" dur="6.530997519807434s" begin="-0.3050905186414521s" repeatCount="indefinite" />
+            React
+        </text>
+        
+        <text x="600" y="0" font-family="monospace" font-size="12.696858930891572" fill="#0f0" opacity="0.8613046965954203">
+            <animate attributeName="y" from="-50" to="350" dur="2.549045983750695s" begin="-1.7172026881208797s" repeatCount="indefinite" />
+            1
+        </text>
+        <text x="600" y="-20" font-family="monospace" font-size="12.696858930891572" fill="#0f0" opacity="0.8613046965954203">
+            <animate attributeName="y" from="-70" to="330" dur="2.549045983750695s" begin="-1.7172026881208797s" repeatCount="indefinite" />
+            1
+        </text>
+         <text x="600" y="-40" font-family="monospace" font-size="12.696858930891572" fill="#0f0" opacity="0.8613046965954203">
+            <animate attributeName="y" from="-90" to="310" dur="2.549045983750695s" begin="-1.7172026881208797s" repeatCount="indefinite" />
+            1
+        </text>
+        
+        <text x="620" y="0" font-family="monospace" font-size="12.999878150636773" fill="#0f0" opacity="0.963509868950694">
+            <animate attributeName="y" from="-50" to="350" dur="3.9440516564455432s" begin="-4.181453631837234s" repeatCount="indefinite" />
+            1
+        </text>
+        <text x="620" y="-20" font-family="monospace" font-size="12.999878150636773" fill="#0f0" opacity="0.963509868950694">
+            <animate attributeName="y" from="-70" to="330" dur="3.9440516564455432s" begin="-4.181453631837234s" repeatCount="indefinite" />
+            React
+        </text>
+         <text x="620" y="-40" font-family="monospace" font-size="12.999878150636773" fill="#0f0" opacity="0.963509868950694">
+            <animate attributeName="y" from="-90" to="310" dur="3.9440516564455432s" begin="-4.181453631837234s" repeatCount="indefinite" />
+            1
+        </text>
+        
+        <text x="640" y="0" font-family="monospace" font-size="17.990247640443314" fill="#0f0" opacity="0.942387105007584">
+            <animate attributeName="y" from="-50" to="350" dur="4.679479351320359s" begin="-3.7051770769297256s" repeatCount="indefinite" />
+            Node
+        </text>
+        <text x="640" y="-20" font-family="monospace" font-size="17.990247640443314" fill="#0f0" opacity="0.942387105007584">
+            <animate attributeName="y" from="-70" to="330" dur="4.679479351320359s" begin="-3.7051770769297256s" repeatCount="indefinite" />
+            Rust
+        </text>
+         <text x="640" y="-40" font-family="monospace" font-size="17.990247640443314" fill="#0f0" opacity="0.942387105007584">
+            <animate attributeName="y" from="-90" to="310" dur="4.679479351320359s" begin="-3.7051770769297256s" repeatCount="indefinite" />
+            Go
+        </text>
+        
+        <text x="660" y="0" font-family="monospace" font-size="18.860805982178555" fill="#0f0" opacity="0.8643830270905568">
+            <animate attributeName="y" from="-50" to="350" dur="5.772887692238564s" begin="-2.1037517611604493s" repeatCount="indefinite" />
+            {}
+        </text>
+        <text x="660" y="-20" font-family="monospace" font-size="18.860805982178555" fill="#0f0" opacity="0.8643830270905568">
+            <animate attributeName="y" from="-70" to="330" dur="5.772887692238564s" begin="-2.1037517611604493s" repeatCount="indefinite" />
+            {}
+        </text>
+         <text x="660" y="-40" font-family="monospace" font-size="18.860805982178555" fill="#0f0" opacity="0.8643830270905568">
+            <animate attributeName="y" from="-90" to="310" dur="5.772887692238564s" begin="-2.1037517611604493s" repeatCount="indefinite" />
+            Node
+        </text>
+        
+        <text x="680" y="0" font-family="monospace" font-size="19.26342452192915" fill="#0f0" opacity="0.9975665677433225">
+            <animate attributeName="y" from="-50" to="350" dur="2.6951521914094343s" begin="-3.5714410689936433s" repeatCount="indefinite" />
+            Rust
+        </text>
+        <text x="680" y="-20" font-family="monospace" font-size="19.26342452192915" fill="#0f0" opacity="0.9975665677433225">
+            <animate attributeName="y" from="-70" to="330" dur="2.6951521914094343s" begin="-3.5714410689936433s" repeatCount="indefinite" />
+            Rust
+        </text>
+         <text x="680" y="-40" font-family="monospace" font-size="19.26342452192915" fill="#0f0" opacity="0.9975665677433225">
+            <animate attributeName="y" from="-90" to="310" dur="2.6951521914094343s" begin="-3.5714410689936433s" repeatCount="indefinite" />
+            JS
+        </text>
+        
+        <text x="700" y="0" font-family="monospace" font-size="17.36322956623887" fill="#0f0" opacity="0.9728772659604268">
+            <animate attributeName="y" from="-50" to="350" dur="6.953284666621464s" begin="-2.884972849673474s" repeatCount="indefinite" />
+            1
+        </text>
+        <text x="700" y="-20" font-family="monospace" font-size="17.36322956623887" fill="#0f0" opacity="0.9728772659604268">
+            <animate attributeName="y" from="-70" to="330" dur="6.953284666621464s" begin="-2.884972849673474s" repeatCount="indefinite" />
+            Rust
+        </text>
+         <text x="700" y="-40" font-family="monospace" font-size="17.36322956623887" fill="#0f0" opacity="0.9728772659604268">
+            <animate attributeName="y" from="-90" to="310" dur="6.953284666621464s" begin="-2.884972849673474s" repeatCount="indefinite" />
+            </>
+        </text>
+        
+        <text x="720" y="0" font-family="monospace" font-size="14.984779319293004" fill="#0f0" opacity="0.5829577958329899">
+            <animate attributeName="y" from="-50" to="350" dur="3.0751899063869423s" begin="-4.010807346875999s" repeatCount="indefinite" />
+            Node
+        </text>
+        <text x="720" y="-20" font-family="monospace" font-size="14.984779319293004" fill="#0f0" opacity="0.5829577958329899">
+            <animate attributeName="y" from="-70" to="330" dur="3.0751899063869423s" begin="-4.010807346875999s" repeatCount="indefinite" />
+            React
+        </text>
+         <text x="720" y="-40" font-family="monospace" font-size="14.984779319293004" fill="#0f0" opacity="0.5829577958329899">
+            <animate attributeName="y" from="-90" to="310" dur="3.0751899063869423s" begin="-4.010807346875999s" repeatCount="indefinite" />
+            Node
+        </text>
+        
+        <text x="740" y="0" font-family="monospace" font-size="16.197202933039815" fill="#0f0" opacity="0.4658964150612373">
+            <animate attributeName="y" from="-50" to="350" dur="6.523484422500114s" begin="-4.8759367002984675s" repeatCount="indefinite" />
+            1
+        </text>
+        <text x="740" y="-20" font-family="monospace" font-size="16.197202933039815" fill="#0f0" opacity="0.4658964150612373">
+            <animate attributeName="y" from="-70" to="330" dur="6.523484422500114s" begin="-4.8759367002984675s" repeatCount="indefinite" />
+            Rust
+        </text>
+         <text x="740" y="-40" font-family="monospace" font-size="16.197202933039815" fill="#0f0" opacity="0.4658964150612373">
+            <animate attributeName="y" from="-90" to="310" dur="6.523484422500114s" begin="-4.8759367002984675s" repeatCount="indefinite" />
+            React
+        </text>
+        
+        <text x="760" y="0" font-family="monospace" font-size="18.912523885294323" fill="#0f0" opacity="0.3524951884702825">
+            <animate attributeName="y" from="-50" to="350" dur="4.672255113777149s" begin="-2.094984531458059s" repeatCount="indefinite" />
+            1
+        </text>
+        <text x="760" y="-20" font-family="monospace" font-size="18.912523885294323" fill="#0f0" opacity="0.3524951884702825">
+            <animate attributeName="y" from="-70" to="330" dur="4.672255113777149s" begin="-2.094984531458059s" repeatCount="indefinite" />
+            </>
+        </text>
+         <text x="760" y="-40" font-family="monospace" font-size="18.912523885294323" fill="#0f0" opacity="0.3524951884702825">
+            <animate attributeName="y" from="-90" to="310" dur="4.672255113777149s" begin="-2.094984531458059s" repeatCount="indefinite" />
+            </>
+        </text>
+        
+        <text x="780" y="0" font-family="monospace" font-size="12.272496021232403" fill="#0f0" opacity="0.6632016015557971">
+            <animate attributeName="y" from="-50" to="350" dur="5.089781183256506s" begin="-1.3644725171285703s" repeatCount="indefinite" />
+            TS
+        </text>
+        <text x="780" y="-20" font-family="monospace" font-size="12.272496021232403" fill="#0f0" opacity="0.6632016015557971">
+            <animate attributeName="y" from="-70" to="330" dur="5.089781183256506s" begin="-1.3644725171285703s" repeatCount="indefinite" />
+            {}
+        </text>
+         <text x="780" y="-40" font-family="monospace" font-size="12.272496021232403" fill="#0f0" opacity="0.6632016015557971">
+            <animate attributeName="y" from="-90" to="310" dur="5.089781183256506s" begin="-1.3644725171285703s" repeatCount="indefinite" />
+            Node
+        </text>
+        
+        <text x="50%" y="50%" text-anchor="middle" fill="white" font-family="Segoe UI" font-size="40" font-weight="bold" filter="url(#glow)">
+            CORE SYSTEMS
+        </text>
+        <defs>
+            <filter id="glow">
+                <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+                <feMerge>
+                    <feMergeNode in="coloredBlur"/>
+                    <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+            </filter>
+        </defs>
+    </svg>
+    

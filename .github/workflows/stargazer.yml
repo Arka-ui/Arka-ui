@@ -1,18 +1,14 @@
-name: Update Matrix & Terminal
+name: New Ally (Star)
 
 on:
-  schedule:
-    - cron: '*/30 * * * *' # Every 30 mins (More frequent updates)
-  workflow_dispatch:
-  push:
-    branches:
-      - master
+  watch:
+    types: [started]
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  welcome:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -27,19 +23,13 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
-      - name: Generate Terminal
-        run: npx ts-node scripts/generate-terminal.ts
-        
-      - name: Generate Matrix
-        run: npx ts-node scripts/generate-matrix.ts
-
-      - name: Generate Allies
+      - name: Add Ally
         run: npx ts-node scripts/generate-allies.ts
         
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add generated/*.svg
-          git commit -m "System Update: Refresh Logs & Matrix" || echo "No changes to commit"
+          git add generated/allies.svg
+          git commit -m "New Ally joined the roster!" || echo "No changes to commit"
           git push
