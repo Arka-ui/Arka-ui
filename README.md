@@ -6,8 +6,20 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&width=435&lines=Initialising+Cybernetic+Protocol...;Loading+Arka%27s+Neural+Net...;Subject%3A+Full+Stack+Architect;Mission%3A+Build+The+Impossible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&width=435&lines=Initialising+Cybernetic+Protocol...;Subject%3A+Full+Stack+Architect;Mission%3A+Build+The+Impossible;V3+Update+Complete" alt="Typing SVG" />
 </p>
+
+<!-- 3D City + HUD -->
+<div align="center">
+    <h3>SYSTEM DASHBOARD</h3>
+    <img src="https://raw.githubusercontent.com/Arka-ui/Arka-ui/master/generated/hud.svg" width="100%" alt="Holo-HUD" />
+</div>
+
+<div align="center">
+     <!-- Note: 3D graph takes 24h to generate first time, using placeholder or immediate link if available -->
+    <img src="https://raw.githubusercontent.com/Arka-ui/Arka-ui/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" width="100%" />
+</div>
+
 
 <!-- Matrix Rain + Terminal -->
 <div align="center">
@@ -29,9 +41,9 @@
 <br clear="all" />
 <br />
 
-<!-- Snake Contribution -->
+<!-- Vibe Check -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arka-ui/Arka-ui/master/generated/snake.svg" width="100%" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/Arka-ui/Arka-ui/master/generated/visualizer.svg" width="100%" alt="Music Visualizer" />
 </div>
 
 <!-- Allies Roster -->
