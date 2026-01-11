@@ -22,9 +22,9 @@
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Arka&show_icons=true&theme=dark&bg_color=0d1117&title_color=3178c6&text_color=e6edf3&icon_color=ff0055&hide_border=true" alt="Arka Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arka-ui&show_icons=true&theme=dark&bg_color=0d1117&title_color=3178c6&text_color=e6edf3&icon_color=ff0055&hide_border=true" alt="Arka Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka&layout=compact&theme=dark&bg_color=0d1117&title_color=3178c6&text_color=e6edf3&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka-ui&layout=compact&theme=dark&bg_color=0d1117&title_color=3178c6&text_color=e6edf3&hide_border=true" alt="Top Langs" />
 </div>
 
 <br />
