@@ -24,6 +24,12 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
       - name: Generate Assets
         run: |
           npx ts-node scripts/generate-assets.ts
