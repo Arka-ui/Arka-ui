@@ -37,12 +37,12 @@ jobs:
           
       - name: Post-Process 3D Graph (Transparency)
         run: |
-          npx ts-node scripts/post-process.ts
+          node scripts/post-process.js
 
       - name: Commit and Push
         run: |
           git config --global user.name "Arka-ui-bot"
           git config --global user.email "bot@arka-ui.com"
-          git add generated/* profile-3d-contrib/*
+          git add profile-3d-contrib/*
           git commit -m "Auto-Update: Isometric Data & Assets" || echo "No changes to commit"
           git push
