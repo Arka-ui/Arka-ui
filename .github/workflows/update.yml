@@ -32,10 +32,8 @@ jobs:
 
       - name: Generate Assets
         run: |
-          npx ts-node scripts/generate-assets.ts
-          npx ts-node scripts/generate-terminal.ts
-          npx ts-node scripts/generate-allies.ts
-          npx ts-node scripts/generate-iso-stats.ts
+          # No extra assets for minimalist profile
+          echo "Skipping legacy asset generation"
           
       - name: Post-Process 3D Graph (Transparency)
         run: |
