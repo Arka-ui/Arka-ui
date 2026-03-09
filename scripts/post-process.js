@@ -34,8 +34,8 @@ const main = () => {
 
     const originalLength = content.length;
 
-    content = content.replace(/<rect[^>]*fill="#00000f"[^>]*><\/rect>/i, ''); // specific color
-    content = content.replace(/<rect[^>]*fill="#0d1117"[^>]*\/>/i, ''); // default github dark
+    content = content.replace(/<rect[^>]*fill="#00000f"[^>]*(?:\/>|><\/rect>)/i, ''); // night-rainbow bg
+    content = content.replace(/<rect[^>]*fill="#0d1117"[^>]*(?:\/>|><\/rect>)/i, ''); // default github dark
 
     if (content.length < originalLength) {
         console.log('Background rectangle removed.');
