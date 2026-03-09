@@ -44,17 +44,8 @@
 
 ### `// now_playing`
 
-<!--
-  SPOTIFY SETUP:
-  1. Go to https://spotify-github-profile.kittinanx.com
-  2. Click "Connect with Spotify"
-  3. Authorize the app
-  4. Copy YOUR unique image URL and replace the src below
-  The URL format will be: https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00ff41
--->
-
-<a href="https://spotify-github-profile.kittinanx.com">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00ff41&bar_color_cover=false" alt="Spotify Now Playing" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wsezh7ajroy2az55vsozic4pai&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wsezh7ajroy2az55vsozic4pai&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00FF41" alt="Spotify Now Playing" />
 </a>
 
 ---
