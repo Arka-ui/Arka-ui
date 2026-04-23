@@ -22,7 +22,7 @@
 |-|---------|-------------|-------|
 | 🎮 | **[RiftMC](https://riftmc.net)** | Minecraft community platform | Java · TypeScript · Vue |
 | 📰 | **[ANS](https://github.com/Arka-ui/ArkaNewsSystem)** | Self-hosted open-source signed news system | Python · GitHub Actions · Ed25519 |
-| 🌐 | **[Portfolio](https://portfolio.arka.riftmc.net)** | Personal portfolio | Next.js · Tailwind |
+| 🌐 | **[Portfolio](https://arka.riftmc.net)** | Personal portfolio | Next.js · Tailwind |
 
 ---
 
@@ -42,7 +42,7 @@
 
 ### Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arka-ui&show_icons=true&theme=github_dark&hide_border=true&icon_color=7ee787&title_color=7ee787&text_color=c9d1d9&ring_color=7ee787" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arka-ui&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&icon_color=7ee787&title_color=7ee787&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka-ui&layout=compact&theme=github_dark&hide_border=true&title_color=7ee787&text_color=c9d1d9&langs_count=8" />
 
 <br/><br/>
@@ -67,23 +67,11 @@
 
 ---
 
-### Now playing
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wsezh7ajroy2az55vsozic4pai&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wsezh7ajroy2az55vsozic4pai&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=7ee787" />
-</a>
-
----
-
-<img src="https://raw.githubusercontent.com/Arka-ui/Arka-ui/output/snake.svg" />
-
----
-
 <a href="https://discord.com/users/871084043838566400">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://portfolio.arka.riftmc.net">
+<a href="https://arka.riftmc.net">
   <img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
