@@ -1,0 +1,90 @@
+name: Update ANS Feed
+
+on:
+  schedule:
+    # Toutes les 6 heures
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # déclenchement manuel possible
+
+jobs:
+  update-ans:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch ANS latest news
+        id: fetch_ans
+        run: |
+          ANS_URL="https://arka-ui.github.io/ArkaNewsSystem/api/latest.json"
+
+          response=$(curl -sf "$ANS_URL" || echo "ERROR")
+
+          if [ "$response" = "ERROR" ]; then
+            echo "ans_block=⚠️ Flux ANS temporairement indisponible." >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          block=$(echo "$response" | python3 -c "
+          import sys, json
+
+          data = json.load(sys.stdin)
+          items = data if isinstance(data, list) else data.get('items', [])
+          items = items[:5]
+
+          if not items:
+              print('_Aucune news disponible pour le moment._')
+          else:
+              lines = []
+              for item in items:
+                  title = item.get('title', 'Sans titre')
+                  url   = item.get('source_url') or item.get('url', '#')
+                  date  = item.get('date', item.get('timestamp', ''))[:10] if item.get('date') or item.get('timestamp') else ''
+                  date_str = f' <sub>{date}</sub>' if date else ''
+                  lines.append(f'- 📌 [{title}]({url}){date_str}')
+              print('\n'.join(lines))
+          ")
+
+          # Escape for GITHUB_OUTPUT multiline
+          {
+            echo 'ans_block<<EOF'
+            echo "$block"
+            echo 'EOF'
+          } >> $GITHUB_OUTPUT
+
+      - name: Inject ANS block into README
+        run: |
+          python3 - <<'PYEOF'
+          import re, os
+
+          block = os.environ.get("ANS_BLOCK", "_Flux ANS indisponible._")
+          readme_path = "README.md"
+
+          with open(readme_path, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r"<!-- ANS_NEWS_START -->.*?<!-- ANS_NEWS_END -->",
+              f"<!-- ANS_NEWS_START -->\n{block}\n<!-- ANS_NEWS_END -->",
+              content,
+              flags=re.DOTALL
+          )
+
+          with open(readme_path, "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+          print("README mis à jour ✅")
+          PYEOF
+        env:
+          ANS_BLOCK: ${{ steps.fetch_ans.outputs.ans_block }}
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore(ans): update news feed [skip ci]"
+          git push

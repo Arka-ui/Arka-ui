@@ -1,73 +1,98 @@
 <div align="center">
 
-<!-- HEADER — animated typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=90&section=header" />
+
 <a href="https://github.com/Arka-ui">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=820&height=100&lines=%3E+Arka" alt="Arka" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2500&pause=1500&color=7EE787&center=true&vCenter=true&width=500&height=70&lines=Arka" alt="Arka" />
 </a>
 
+<p>Full-stack developer · Co-founder of <strong>RiftMC</strong> · Building things that last</p>
+
 <br/>
 
-*"I refuse to build software that costs, breaks, or disappears behind a wall."*
+> *"I refuse to build software that costs, breaks, or disappears behind a wall."*
 
 <br/>
 
 ---
 
-<!-- TECH STACK -->
+### What I'm building
 
-### `// tech_stack`
-
-<img src="https://skillicons.dev/icons?i=ts,react,vue,nextjs,css,tailwind,rust,wasm,java,python,prisma,githubactions,vscode&theme=dark" alt="Tech Stack" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-<img src="https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="DrizzleORM" />
-<img src="https://img.shields.io/badge/better--auth-000000?style=for-the-badge&logo=lock&logoColor=00FF41" alt="better-auth" />
+| | Project | Description | Stack |
+|-|---------|-------------|-------|
+| 🎮 | **[RiftMC](https://riftmc.net)** | Minecraft community platform | Java · TypeScript · Vue |
+| 📰 | **[ANS](https://github.com/Arka-ui/ArkaNewsSystem)** | Self-hosted open-source signed news system | Python · GitHub Actions · Ed25519 |
+| 🌐 | **[Portfolio](https://portfolio.arka.riftmc.net)** | Personal portfolio | Next.js · Tailwind |
 
 ---
 
-<!-- GITHUB STATS -->
+### Tech
 
-### `// stats`
+<img src="https://skillicons.dev/icons?i=ts,react,vue,nextjs,tailwind,css,rust,wasm,java,python,prisma,githubactions,vscode&theme=dark" />
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Arka-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&ring_color=00FF41" alt="GitHub Stats" />
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Arka-ui&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=ff6600&currStreakLabel=00FF41&sideLabels=00FF41&dates=555555" alt="GitHub Streak" />
+<br/><br/>
 
-<br/>
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Drizzle_ORM-000000?style=flat-square&logo=drizzle&logoColor=C5F74F" />
+&nbsp;
+<img src="https://img.shields.io/badge/better--auth-000000?style=flat-square&logoColor=7EE787" />
 
 ---
 
-<!-- SPOTIFY — NOW PLAYING -->
+### Stats
 
-### `// now_playing`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arka-ui&show_icons=true&theme=github_dark&hide_border=true&icon_color=7ee787&title_color=7ee787&text_color=c9d1d9&ring_color=7ee787" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arka-ui&layout=compact&theme=github_dark&hide_border=true&title_color=7ee787&text_color=c9d1d9&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Arka-ui&theme=github-dark&hide_border=true&ring=7ee787&fire=ff6600&currStreakLabel=7ee787&sideLabels=7ee787&dates=6e7681" />
+
+---
+
+### Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arka-ui&theme=github-compact&hide_border=true&area=true&area_color=7ee787&line=7ee787&point=7ee787&color=c9d1d9&bg_color=0d1117" />
+
+---
+
+### ANS — Latest news
+
+<!-- ANS_NEWS_START -->
+> _Flux ANS en cours d'initialisation — première mise à jour dans moins de 6h._
+<!-- ANS_NEWS_END -->
+
+<sub>Auto-updated every 6h · <a href="https://github.com/Arka-ui/Arka-ui/actions/workflows/update-ans.yml">workflow</a> · powered by <a href="https://github.com/Arka-ui/ArkaNewsSystem">ANS</a></sub>
+
+---
+
+### Now playing
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wsezh7ajroy2az55vsozic4pai&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wsezh7ajroy2az55vsozic4pai&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00FF41" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wsezh7ajroy2az55vsozic4pai&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=7ee787" />
 </a>
 
 ---
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-
-<img src="https://raw.githubusercontent.com/Arka-ui/Arka-ui/output/snake.svg" alt="Snake animation" />
-
-<!-- 3D CONTRIBUTION GRAPH -->
-
-<img src="https://raw.githubusercontent.com/Arka-ui/Arka-ui/master/profile-3d-contrib/profile-night-rainbow.svg" width="800" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/Arka-ui/Arka-ui/output/snake.svg" />
 
 ---
 
-<!-- FOOTER — SOCIAL + VISITOR COUNTER -->
-
 <a href="https://discord.com/users/871084043838566400">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://portfolio.arka.riftmc.net">
+  <img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Arka-ui&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Arka-ui&style=flat-square&color=7ee787&label=PROFILE+VIEWS" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=60&section=footer" />
 
 </div>
