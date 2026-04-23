@@ -60,7 +60,7 @@
 ### ANS — Latest news
 
 <!-- ANS_NEWS_START -->
-> _Flux ANS en cours d'initialisation — première mise à jour dans moins de 6h._
+⚠️ Flux ANS temporairement indisponible.
 <!-- ANS_NEWS_END -->
 
 <sub>Auto-updated every 6h · <a href="https://github.com/Arka-ui/Arka-ui/actions/workflows/update-ans.yml">workflow</a> · powered by <a href="https://github.com/Arka-ui/ArkaNewsSystem">ANS</a></sub>
