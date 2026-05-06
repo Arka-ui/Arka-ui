@@ -2,24 +2,31 @@ name: Update All V3
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Run every 30 minutes
+    - cron: '0 */6 * * *'  # Toutes les 6h (au lieu de toutes les 30 min)
   workflow_dispatch:
+
+# Empêche 2 runs de se chevaucher
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     permissions:
       contents: write
 
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
       - name: Install Dependencies
         run: npm install
@@ -30,19 +37,27 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Generate Assets
-        run: |
-          # No extra assets for minimalist profile
-          echo "Skipping legacy asset generation"
-          
       - name: Post-Process 3D Graph (Transparency)
-        run: |
-          node scripts/post-process.js
+        run: node scripts/post-process.js
 
       - name: Commit and Push
         run: |
           git config --global user.name "Arka-ui-bot"
           git config --global user.email "bot@arka-ui.com"
+
           git add profile-3d-contrib/*
-          git commit -m "Auto-Update: Isometric Data & Assets" || echo "No changes to commit"
-          git push
+
+          # Si rien n'a changé, on s'arrête là (pas d'erreur)
+          if git diff --staged --quiet; then
+            echo "No changes to commit, exiting cleanly"
+            exit 0
+          fi
+
+          git commit -m "Auto-Update: Isometric Data & Assets"
+
+          # Retry avec rebase si push rejeté (cas de conflit avec un autre workflow)
+          for i in 1 2 3; do
+            git pull --rebase origin master && git push && break
+            echo "Push attempt $i failed, retrying..."
+            sleep 5
+          done
